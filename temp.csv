@@ -1,8 +1,2 @@
-Product Name,Pick Rate %
-Product A,35.6
-Product B,45.2
-Product C,28.9
-Product D,50.1
-Product E,38.7
-Product F,42.3
-Product G,30.5
+Product A, Product B, Product C, Product D, Product E, Product F, Product G
+35.6, 45.2, 28.9, 50.1, 38.7, 42.3, 30.5
